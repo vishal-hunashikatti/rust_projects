@@ -1,5 +1,5 @@
 [package]
-name = "budget_manager"
+name = "personal_budget_manager"
 version = "0.1.0"
 edition = "2024"
 
