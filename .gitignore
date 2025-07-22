@@ -1,0 +1,52 @@
+# Rust build artifacts
+**/target/
+**/Cargo.lock
+
+# IDE and editor files
+**/.vscode/
+**/.idea/
+**/*.swp
+**/*.swo
+**/*~
+
+# OS generated files
+**/.DS_Store
+**/.DS_Store?
+**/._*
+**/.Spotlight-V100
+**/.Trashes
+**/ehthumbs.db
+**/Thumbs.db
+
+# Temporary files
+**/*.tmp
+**/*.temp
+**/*.bak
+
+# Log files
+**/*.log
+
+# Environment files
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Rust-specific
+**/*.pdb
+
+# Backup files
+**/*.orig
+
+# Project-specific ignores
+# Add specific project folders you don't want to track
+# Example:
+# experimental-project/
+# draft-project/
+# private-project/
+
+# Keep this file
+!.gitignore
+
+# Optional: Keep README files in project directories
+!**/README.md
+!**/readme.md
