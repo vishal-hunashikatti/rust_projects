@@ -4,7 +4,7 @@
 
 ### What is the project?
 
-The project is aimed to be helpful to track all expenditures, income and categorize them meticulously and show summary for either a month or a year or given date range. I will use Test Driven Development to improve my skills.
+The project is aimed to be helpful to track all expenditures, income and categorize them meticulously and show summary for either a month or a year or given date range.
 
 #### Input
 
